@@ -1,9 +1,10 @@
 cff-version: 1.2.0
 title: "The AI Engineer Interview Register"
 message: >-
-  If you use this dataset or its findings, please cite it. When you quote a
-  question, carry its source row with it — every row records the URL, author and
-  evidence tier it came from.
+  Attribution to 4Geeks Academy is required by the license. If you use this
+  dataset, its figures or its findings, cite it as below and link back to the
+  repository. When you quote a question, also carry its source row — every row
+  records the URL, author and evidence tier it came from.
 type: dataset
 authors:
   - name: "4Geeks Academy"
@@ -30,5 +31,6 @@ keywords:
   - dataset
   - evidence grading
 license: CC-BY-4.0
+license-url: "https://github.com/breatheco-de/ai-engineer-interview-questions/blob/main/LICENSE"
 date-released: "2026-09-24"
 version: "1.0.0"

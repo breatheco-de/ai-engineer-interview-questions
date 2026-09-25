@@ -1,35 +1,65 @@
 # License
 
-This repository holds two kinds of work, under two licenses.
+Copyright (c) 2026 **4Geeks Academy**.
+
+This repository holds two kinds of work, under two licenses. **Both require attribution to 4Geeks
+Academy.** If you use this dataset, its figures, its findings or its code — in a course, a blog
+post, a paper, a product, a model's training data, or a repository of your own — you must credit
+4Geeks Academy and link back to this repository. Use without that credit is not permitted under
+either license.
 
 ## Data, figures and documentation — CC BY 4.0
 
-Everything in `data/`, `figures/`, `catalog/`, `docs/`, `REPORT.md` and `README.md` is licensed
-under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+Everything in `data/`, `figures/`, `catalog/`, `docs/`, `assets/`, `REPORT.md` and `README.md` is
+licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
-You are free to share and adapt this material, including commercially, provided you give
-appropriate credit, link to the license, and indicate if changes were made.
+You are free to:
+
+- **Share** — copy and redistribute the material in any medium or format;
+- **Adapt** — remix, transform and build upon it, including commercially.
+
+**On one condition, which is not optional: attribution.** You must give appropriate credit to
+4Geeks Academy, provide a link to this repository and to the license, and indicate whether you made
+changes. You may not suggest that 4Geeks Academy endorses you or your use.
 
 - Summary: https://creativecommons.org/licenses/by/4.0/
 - Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
 
-Suggested credit:
+### How to cite
 
-> *The AI Engineer Interview Register*, 4Geeks Academy, 2026, CC BY 4.0.
+Use this, or the equivalent in whatever format your context calls for:
+
+> *The AI Engineer Interview Register*. 4Geeks Academy, 2026. Licensed CC BY 4.0.
 > https://github.com/breatheco-de/ai-engineer-interview-questions
+
+A machine-readable citation is in [CITATION.cff](CITATION.cff). GitHub turns it into a
+"Cite this repository" button in the sidebar.
+
+Where the credit has to appear:
+
+| If you | Then |
+|---|---|
+| Quote a number, a finding or a figure | Name 4Geeks Academy in the text or the caption, and link to this repository. |
+| Republish questions from the dataset | Carry the credit **and** the source row — every question records the `source_url`, `source_author` and `evidence_tier` it came from. |
+| Build a course, a bootcamp or a study guide on it | Credit 4Geeks Academy where students can see it, not only in a repository footer. |
+| Fork or redistribute the dataset | Keep this LICENSE file intact and state what you changed. |
+| Train on it or feed it to a model | The same attribution applies; a derived dataset carries this credit forward. |
 
 ### On the question texts themselves
 
-The question texts were collected from public posts on X, two interviewer blogs, and three
-published question banks. Every row in `data/questions.csv` carries the `source_url`,
-`source_author` and `source_date` it came from, and the `evidence_tier` that says what kind of
-source that is. The compilation, the normalization, the labels and the analysis are the
-contribution licensed here; the underlying posts belong to the people who wrote them. If you
-republish a question, carry its source row with it.
+The question texts were collected from public posts on X, two interviewer blogs, and three published
+question banks. Every row in `data/questions.csv` carries the `source_url`, `source_author` and
+`source_date` it came from, and the `evidence_tier` that says what kind of source that is.
+
+The compilation, the unification, the labeling, the analysis and the writing are 4Geeks Academy's
+contribution, and that is what is licensed here. The underlying posts belong to the people who wrote
+them. Crediting 4Geeks Academy does not release you from crediting them: if you republish a
+question, carry its source row with it.
 
 ## Scripts — MIT
 
-Everything in `scripts/` is licensed under the MIT License.
+Everything in `scripts/` is licensed under the MIT License, whose attribution requirement is the
+copyright notice below.
 
 Copyright (c) 2026 4Geeks Academy
 
@@ -47,3 +77,10 @@ NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPO
 NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
 DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT
 OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Trademarks
+
+"4Geeks", "4Geeks Academy" and the 4Geeks logo in `assets/` are trademarks of 4Geeks Academy. The
+licenses above cover the dataset, the documentation and the code; they do not grant permission to
+use the name or the logo as your own branding, or in a way that implies endorsement. Using them to
+give the credit this license requires is expressly fine.

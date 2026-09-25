@@ -177,3 +177,7 @@ Of the 45 first-hand instances still in the unified table, 22 were coded senior 
 ## How to check a sentence
 
 The working notes are [PHASE1.md](docs/PHASE1.md), [PHASE2.md](docs/PHASE2.md), [FINDINGS.md](docs/FINDINGS.md), and [FIGURES.md](docs/FIGURES.md). The row behind a claim is [unified_labeled.csv](data/unified_labeled.csv). The untouched lab notebook is [questions.csv](data/questions.csv). A reader does not need to open the 2,354-row file to see where a number in this report came from. The file is there for an audit.
+
+---
+
+*The AI Engineer Interview Register* — 4Geeks Academy, 2026. Licensed [CC BY 4.0](LICENSE): reuse it freely, credit 4Geeks Academy and link back to [the repository](https://github.com/breatheco-de/ai-engineer-interview-questions).

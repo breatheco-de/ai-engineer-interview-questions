@@ -1,5 +1,12 @@
 <div align="center">
 
+<a href="https://4geeks.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/4geeks-logo-dark.png">
+    <img src="assets/4geeks-logo.png" alt="4Geeks Academy" width="200">
+  </picture>
+</a>
+
 # The AI Engineer Interview Register
 
 **1,988 interview questions, every one labeled with where it came from — a candidate who sat the
@@ -189,17 +196,31 @@ different prompts together, or a company name is stronger than its evidence, ope
 is [a template for each](.github/ISSUE_TEMPLATE/). See [CONTRIBUTING.md](CONTRIBUTING.md) for what a
 usable submission looks like.
 
-## Citing this
+## License and how to credit it
 
-See [CITATION.cff](CITATION.cff), or:
+Data, figures and documentation are [CC BY 4.0](LICENSE); the scripts are MIT. **Both require
+attribution to 4Geeks Academy.** Use it in a course, a post, a paper, a product or a dataset of your
+own — that is what it is for — but credit 4Geeks Academy and link back to this repository:
 
-> *The AI Engineer Interview Register: what public 2026 sources test an AI engineer on.*
-> 4Geeks Academy / BreatheCode, 2026. https://github.com/breatheco-de/ai-engineer-interview-questions
+> *The AI Engineer Interview Register*. 4Geeks Academy, 2026. Licensed CC BY 4.0.
+> https://github.com/breatheco-de/ai-engineer-interview-questions
 
-## License
+A machine-readable citation is in [CITATION.cff](CITATION.cff), which GitHub turns into a
+**Cite this repository** button in the sidebar. [LICENSE](LICENSE) spells out where the credit has
+to appear for each kind of reuse.
 
-Data and documentation: [CC BY 4.0](LICENSE). Scripts: MIT, see [LICENSE](LICENSE).
+One thing the credit does not replace: the question texts came from people who wrote up their own
+interviews, and every row carries the URL, the author and the evidence tier it came from. If you
+republish a question, carry its source row with it.
 
-The question texts were collected from public posts and published question banks, and each row
-carries the URL it came from. Attribution travels with the row — if you reuse a question, carry its
-source with it.
+<div align="center">
+<br>
+<a href="https://4geeks.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/4geeks-logo-dark.png">
+    <img src="assets/4geeks-logo.png" alt="4Geeks Academy" width="140">
+  </picture>
+</a>
+<br><br>
+Built and published by <a href="https://4geeks.com">4Geeks Academy</a>.
+</div>
