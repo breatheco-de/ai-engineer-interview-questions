@@ -1,0 +1,8 @@
+unified_id,question_text,primary_priority,primary_use,task_verb,task_use,companies_stated,source_authors
+UQ-0671,Explain a project you owned end to end and how you dealt with it.,project_defense,firm,defend,review,,kris_aieng
+UQ-0733,Explain that project's architecture.,project_defense,firm,explain,firm,,kris_aieng
+UQ-0745,Explain the retrieval pipeline you worked on.,project_defense,firm,explain,firm,,kris_aieng
+UQ-1419,Walk through a RAG pipeline you have built.,project_defense,firm,defend,firm,,Bhanupratap241
+UQ-1424,Walk through the end-to-end architecture of a production system you shipped.,project_defense,firm,explain,review,Sopra Steria,Pksingh900
+UQ-1426,Walk through the RAG pipeline you built and which embedding model you used.,project_defense,firm,defend,firm,,LaxanaRana
+UQ-1699,What's the last GenAI project you have worked on?,project_defense,firm,defend,firm,,kris_aieng

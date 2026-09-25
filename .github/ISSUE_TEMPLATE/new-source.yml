@@ -1,0 +1,51 @@
+name: "📚 A source we have not ingested"
+description: A question bank, a company list, or an interviewer writing up what they ask.
+title: "[source] "
+labels: ["source", "data"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Useful — with one caveat set out in [CONTRIBUTING.md](https://github.com/breatheco-de/ai-engineer-interview-questions/blob/main/CONTRIBUTING.md): a
+        compiled list enters as a **study bank**, the lowest evidence tier, unless the author says
+        these are questions they were asked or that they ask. That is not a judgement on quality.
+        It is what keeps the register's central contrast honest.
+
+  - type: input
+    id: url
+    attributes:
+      label: Link to the source
+    validations:
+      required: true
+
+  - type: input
+    id: author
+    attributes:
+      label: Who wrote it?
+    validations:
+      required: true
+
+  - type: dropdown
+    id: claim
+    attributes:
+      label: What does the author claim about their own sources?
+      description: Quote them in the next box if you can. This decides the evidence tier, so it matters more than anything else here.
+      options:
+        - "They say they were asked these questions (first-hand)"
+        - "They say they ask these questions as an interviewer (first-hand)"
+        - "They say these were reported by candidates, and cite a source"
+        - "They say these are compiled or synthesised from public information"
+        - "They do not say"
+    validations:
+      required: true
+
+  - type: textarea
+    id: quote
+    attributes:
+      label: Quote the author's own description of their sources
+      description: The sentence where they say where the questions came from.
+
+  - type: input
+    id: size
+    attributes:
+      label: Roughly how many questions?

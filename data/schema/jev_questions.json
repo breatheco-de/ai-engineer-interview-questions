@@ -1,0 +1,51 @@
+{
+  "version": "2026-09-24",
+  "model": "jev",
+  "purpose": "Label an already-extracted interview question. Jev does not invent rows, companies, or evidence tiers.",
+  "state_fields": ["question_text", "source_line"],
+  "confidence_floor": 0.6,
+  "on_low_confidence": "review_status=review",
+  "never_decide": ["company", "evidence_tier", "source_url", "verification_status", "include_in_paper"],
+  "questions": {
+    "skill_primary": {
+      "type": "Choice",
+      "options": [
+        "project_defense",
+        "retrieval_rag",
+        "indexing_ann",
+        "eval_quality",
+        "llm_mechanics",
+        "api_gateway",
+        "data_plane",
+        "agent_reliability",
+        "security_safety",
+        "serving_perf",
+        "system_design",
+        "coding",
+        "mcp_tooling",
+        "fine_tune_adaptation",
+        "unclear"
+      ]
+    },
+    "system_layer": {
+      "type": "Choice",
+      "options": ["model", "retrieval", "data_plane", "api_gateway", "agent_runtime", "evals", "serving", "security", "product", "unclear"]
+    },
+    "round": {
+      "type": "Choice",
+      "options": ["screen", "project_defense", "coding", "rag_deep_dive", "system_design", "behavioral", "take_home", "unclear"]
+    },
+    "seniority_signal": {
+      "type": "Choice",
+      "options": ["floor", "separator", "staff_plus", "unclear"]
+    },
+    "failure_mode": {
+      "type": "Choice",
+      "options": ["stale_index", "bad_chunking", "double_write", "cross_tenant", "429_storm", "no_eval", "prompt_only", "other", "none", "unclear"]
+    },
+    "looks_like_single_sitting": {"type": "Noul", "statement": "The source line describes one person in one interview, not a compiled list."},
+    "requires_a_number": {"type": "Noul", "statement": "A strong answer needs a concrete number such as QPS, RAM, p95, or dollars."},
+    "prompt_tune_would_fail": {"type": "Noul", "statement": "Saying only 'tune the prompt' would fail this question."},
+    "is_take_home": {"type": "Noul", "statement": "This is a multi-hour build, not a question inside a 60-minute loop."}
+  }
+}

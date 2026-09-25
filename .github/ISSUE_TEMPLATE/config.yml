@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Read the report first
+    url: https://github.com/breatheco-de/ai-engineer-interview-questions/blob/main/REPORT.md
+    about: The nine findings and the limit on each one. Most questions about a number are answered here.
+  - name: What the columns mean
+    url: https://github.com/breatheco-de/ai-engineer-interview-questions/blob/main/data/README.md
+    about: The data dictionary, and how to load the tables.

@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+title: "The AI Engineer Interview Register"
+message: >-
+  If you use this dataset or its findings, please cite it. When you quote a
+  question, carry its source row with it — every row records the URL, author and
+  evidence tier it came from.
+type: dataset
+authors:
+  - name: "4Geeks Academy"
+    website: "https://4geeks.com"
+repository-code: "https://github.com/breatheco-de/ai-engineer-interview-questions"
+abstract: >-
+  A register of 1,988 AI-engineer interview questions, unified from 2,354
+  recorded instances across candidate posts, compiled reports and published
+  study banks. Every question keeps the source type it came from, and every
+  count in the accompanying report is split by that source rather than summed.
+  The central finding is that the three sources disagree: candidate sittings
+  emphasise project defense, agent reliability and index choice, while study
+  banks emphasise fine-tuning, serving internals and eval catalogs. Company
+  names in the data are tags attached by bank authors, not evidence that the
+  company asked the question, and no count in this dataset is a probability that
+  a question is asked.
+keywords:
+  - interview questions
+  - AI engineering
+  - LLM
+  - RAG
+  - agents
+  - hiring
+  - dataset
+  - evidence grading
+license: CC-BY-4.0
+date-released: "2026-09-24"
+version: "1.0.0"

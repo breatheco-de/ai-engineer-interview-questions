@@ -1,0 +1,76 @@
+name: "🎤 A sitting you did"
+description: You interviewed somewhere and wrote down what you were asked. This is the most valuable contribution to this register.
+title: "[sitting] "
+labels: ["first-hand", "data"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Only 45 questions in this register come from someone describing a room they actually sat in.
+        Yours would join them.
+
+        Verbatim beats accurate-from-memory, and accurate-from-memory beats a topic list — but all
+        three are usable. Do not reconstruct a question you do not remember; say the topic instead
+        and we will record it as a topic.
+
+  - type: textarea
+    id: questions
+    attributes:
+      label: What were you asked?
+      description: One question per line, as close to the words used as you can get. If you only remember the topic, write the topic and say so.
+      placeholder: |
+        Walk through the RAG pipeline you built and which embedding model you used.
+        For 50-100 million chunks, which index do you choose and how do you decide?
+        (topic only) something about prompt injection
+    validations:
+      required: true
+
+  - type: input
+    id: source_url
+    attributes:
+      label: Public link to your write-up
+      description: A thread on X, a blog post, a LinkedIn post. A row with no source URL cannot enter the register — if you have not posted it publicly, posting it and linking here is what makes it citable.
+      placeholder: https://x.com/.../status/...
+    validations:
+      required: true
+
+  - type: input
+    id: company
+    attributes:
+      label: Employer (optional)
+      description: If you name it, it is recorded as stated by the candidate — one of the few company names in this data that means anything. Leave blank if you would rather not.
+
+  - type: dropdown
+    id: level
+    attributes:
+      label: Level, as the employer described it
+      options:
+        - "not stated"
+        - junior
+        - mid
+        - senior
+        - staff or above
+    validations:
+      required: true
+
+  - type: input
+    id: round
+    attributes:
+      label: Which round was this? (optional)
+      placeholder: screen, technical 1, system design, hiring manager, onsite…
+
+  - type: input
+    id: date
+    attributes:
+      label: Roughly when? (optional)
+      placeholder: 2026-09
+
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: Before you post
+      options:
+        - label: This is my own interview, or an interview I conducted, and the link is content I am comfortable being cited.
+          required: true
+        - label: I have not named my interviewer or anyone else without their consent.
+          required: true

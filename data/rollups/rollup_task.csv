@@ -1,0 +1,7 @@
+figure_title,task_verb,n_firm_questions,n_candidate,n_compiled_report,n_study_bank,n_review_not_in_counts
+Firm Jev labels only. explain was added because define-or-compare is not design. A mixed question counts in each source type.,explain,922,27,132,765,137
+Firm Jev labels only. explain was added because define-or-compare is not design. A mixed question counts in each source type.,design,463,5,112,347,78
+Firm Jev labels only. explain was added because define-or-compare is not design. A mixed question counts in each source type.,implement,143,0,83,60,11
+Firm Jev labels only. explain was added because define-or-compare is not design. A mixed question counts in each source type.,diagnose,72,2,13,57,22
+Firm Jev labels only. explain was added because define-or-compare is not design. A mixed question counts in each source type.,defend,47,3,15,29,34
+Firm Jev labels only. explain was added because define-or-compare is not design. A mixed question counts in each source type.,evaluate,26,0,8,18,19

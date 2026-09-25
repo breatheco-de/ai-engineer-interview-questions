@@ -1,0 +1,49 @@
+name: "🔍 A correction"
+description: A question is mislabeled, a merge is wrong, a source is dead, or a claim says more than the data supports.
+title: "[correction] "
+labels: ["correction", "data"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Corrections are welcome and the over-claim kind is the most welcome of all. If a sentence in
+        the report, a catalog page or a figure title says more than the rows behind it support, that
+        is a bug in the thing this register exists to get right.
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of correction?
+      options:
+        - "Mislabel — the priority, task, layer or failure mode is wrong"
+        - "Bad merge — two different prompts were collapsed into one row"
+        - "Missed merge — two rows are the same question"
+        - "Over-claim — a sentence or a title says more than the data supports"
+        - "Attribution — a company name is stronger than its evidence"
+        - "Dead or wrong source URL"
+        - "Something else"
+    validations:
+      required: true
+
+  - type: input
+    id: where
+    attributes:
+      label: Where is it?
+      description: A question id (UQ-0660), an instance id (SIT-KRIS1-01), or a file and the line you are quoting.
+      placeholder: UQ-0660, or REPORT.md § "The two rankings"
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong, and what should it be?
+      description: Quote the text as it stands, then say what the data actually supports.
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: What are you going on?
+      description: A row in the data, a source URL, a count you re-ran. "It reads wrong to me" is a legitimate answer for an over-claim — say so.

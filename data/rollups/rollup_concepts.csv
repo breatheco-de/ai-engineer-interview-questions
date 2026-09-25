@@ -1,0 +1,55 @@
+figure_title,name,n_questions,n_candidate,n_compiled_report,n_study_bank
+Named in question text. Not a tool list and not a probability.,RAG,82,10,24,48
+Named in question text. Not a tool list and not a probability.,fine-tuning,63,0,11,52
+Named in question text. Not a tool list and not a probability.,attention,57,0,13,44
+Named in question text. Not a tool list and not a probability.,embeddings,39,2,11,26
+Named in question text. Not a tool list and not a probability.,KV cache,28,0,2,26
+Named in question text. Not a tool list and not a probability.,chunking,26,2,5,19
+Named in question text. Not a tool list and not a probability.,tool calling,25,3,2,20
+Named in question text. Not a tool list and not a probability.,context window,22,1,4,17
+Named in question text. Not a tool list and not a probability.,RLHF,22,0,5,17
+Named in question text. Not a tool list and not a probability.,quantization,20,0,3,17
+Named in question text. Not a tool list and not a probability.,prompt injection,18,1,3,14
+Named in question text. Not a tool list and not a probability.,prefill/decode,18,0,0,18
+Named in question text. Not a tool list and not a probability.,LoRA,17,0,3,14
+Named in question text. Not a tool list and not a probability.,rate limiting,15,1,5,9
+Named in question text. Not a tool list and not a probability.,hallucination,15,1,7,7
+Named in question text. Not a tool list and not a probability.,reranking,14,1,5,8
+Named in question text. Not a tool list and not a probability.,DPO,13,0,4,9
+Named in question text. Not a tool list and not a probability.,temperature,12,1,2,9
+Named in question text. Not a tool list and not a probability.,MoE,11,0,0,11
+Named in question text. Not a tool list and not a probability.,ACL,10,0,1,9
+Named in question text. Not a tool list and not a probability.,FlashAttention,10,0,2,8
+Named in question text. Not a tool list and not a probability.,multi-tenant,8,0,2,6
+Named in question text. Not a tool list and not a probability.,ReAct,8,0,3,5
+Named in question text. Not a tool list and not a probability.,GRPO,8,0,1,7
+Named in question text. Not a tool list and not a probability.,RoPE,7,0,1,6
+Named in question text. Not a tool list and not a probability.,BM25,7,0,2,5
+Named in question text. Not a tool list and not a probability.,speculative decoding,7,0,1,6
+Named in question text. Not a tool list and not a probability.,GQA,7,0,0,7
+Named in question text. Not a tool list and not a probability.,perplexity,7,0,4,3
+Named in question text. Not a tool list and not a probability.,cosine similarity,7,0,3,4
+Named in question text. Not a tool list and not a probability.,softmax,5,0,1,4
+Named in question text. Not a tool list and not a probability.,HNSW,5,1,1,3
+Named in question text. Not a tool list and not a probability.,hybrid search,5,0,2,3
+Named in question text. Not a tool list and not a probability.,chain of thought,5,0,0,5
+Named in question text. Not a tool list and not a probability.,cross-encoder,4,0,1,3
+Named in question text. Not a tool list and not a probability.,positional encoding,4,0,1,3
+Named in question text. Not a tool list and not a probability.,citation,4,0,0,4
+Named in question text. Not a tool list and not a probability.,ANN,4,1,1,2
+Named in question text. Not a tool list and not a probability.,IVF-PQ,3,1,0,2
+Named in question text. Not a tool list and not a probability.,recall@k,3,0,0,3
+Named in question text. Not a tool list and not a probability.,circuit breaker,3,1,0,2
+Named in question text. Not a tool list and not a probability.,lost in the middle,3,0,1,2
+Named in question text. Not a tool list and not a probability.,MRR,3,0,1,2
+Named in question text. Not a tool list and not a probability.,NDCG,3,0,1,2
+Named in question text. Not a tool list and not a probability.,faithfulness,3,0,0,3
+Named in question text. Not a tool list and not a probability.,continuous batching,3,0,0,3
+Named in question text. Not a tool list and not a probability.,MQA,2,0,0,2
+Named in question text. Not a tool list and not a probability.,idempotency,1,0,0,1
+Named in question text. Not a tool list and not a probability.,SAGA,1,1,0,0
+Named in question text. Not a tool list and not a probability.,two-phase commit,1,1,0,0
+Named in question text. Not a tool list and not a probability.,ColBERT,1,0,0,1
+Named in question text. Not a tool list and not a probability.,precision@k,1,0,1,0
+Named in question text. Not a tool list and not a probability.,RRF,1,0,0,1
+Named in question text. Not a tool list and not a probability.,GraphRAG,1,0,0,1

@@ -1,0 +1,33 @@
+name: Data checks
+
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  validate:
+    name: The tables still say what the report says
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Validate the data against the report's claims
+        run: python3 scripts/validate_data.py
+
+      - name: Rebuild the catalog
+        run: python3 scripts/build_catalog.py
+
+      - name: The committed catalog matches the data
+        run: |
+          if ! git diff --quiet -- catalog/; then
+            echo "::error::catalog/ is out of date. Run: python3 scripts/build_catalog.py"
+            git diff --stat -- catalog/
+            exit 1
+          fi
+          echo "catalog/ is in sync with data/"

@@ -1,0 +1,325 @@
+figure_title,company,priority,n_tagged_questions,n_firm
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",OpenAI,evals,33,31
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",OpenAI,fine_tuning,19,17
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",OpenAI,system_design,17,13
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",OpenAI,serving_cost,15,13
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",OpenAI,coding,15,13
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",OpenAI,tokens_attention,11,11
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",OpenAI,injection_gates,9,5
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",OpenAI,context_sampling,9,7
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",OpenAI,unclear,9,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",OpenAI,agent_reliability,7,6
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",OpenAI,hybrid_search,7,6
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",OpenAI,classic_ml,6,4
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",OpenAI,api_control,5,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",OpenAI,embeddings,3,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",OpenAI,data_plane,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",OpenAI,grounding,2,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",OpenAI,chunking,2,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",OpenAI,ann_indexes,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",OpenAI,project_defense,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Anthropic,agent_reliability,20,19
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Anthropic,system_design,11,10
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Anthropic,coding,11,8
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Anthropic,unclear,8,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Anthropic,api_control,7,7
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Anthropic,tokens_attention,6,5
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Anthropic,evals,5,5
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Anthropic,serving_cost,3,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Anthropic,fine_tuning,3,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Anthropic,project_defense,3,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Anthropic,injection_gates,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Anthropic,grounding,2,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Anthropic,data_plane,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Anthropic,classic_ml,1,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Amazon,classic_ml,31,28
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Amazon,unclear,15,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Amazon,system_design,9,7
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Amazon,serving_cost,7,7
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Amazon,evals,7,6
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Amazon,data_plane,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Amazon,tokens_attention,2,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Amazon,fine_tuning,2,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Amazon,project_defense,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Amazon,agent_reliability,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Amazon,coding,1,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Perplexity,system_design,8,7
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Perplexity,evals,7,6
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Perplexity,hybrid_search,5,5
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Perplexity,serving_cost,4,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Perplexity,grounding,4,4
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Perplexity,api_control,3,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Perplexity,context_sampling,2,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Perplexity,data_plane,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Perplexity,fine_tuning,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Perplexity,coding,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Perplexity,embeddings,1,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Perplexity,unclear,1,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Microsoft,serving_cost,5,4
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Microsoft,classic_ml,5,4
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Microsoft,fine_tuning,4,4
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Microsoft,data_plane,3,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Microsoft,hybrid_search,3,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Microsoft,evals,3,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Microsoft,agent_reliability,3,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Microsoft,injection_gates,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Microsoft,system_design,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Microsoft,unclear,2,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Microsoft,coding,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Microsoft,project_defense,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",NVIDIA,serving_cost,23,22
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",NVIDIA,system_design,4,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",NVIDIA,coding,3,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",NVIDIA,classic_ml,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",NVIDIA,unclear,1,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",NVIDIA,evals,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Meta,system_design,13,12
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Meta,tokens_attention,5,5
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Meta,coding,3,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Meta,fine_tuning,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Meta,evals,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Meta,unclear,2,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Meta,classic_ml,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Meta,serving_cost,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Meta,project_defense,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Palantir,system_design,10,9
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Palantir,coding,5,5
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Palantir,unclear,4,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Palantir,data_plane,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Palantir,agent_reliability,2,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Palantir,api_control,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Palantir,injection_gates,1,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Palantir,evals,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Palantir,serving_cost,1,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Cohere,evals,5,5
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Cohere,hybrid_search,3,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Cohere,system_design,3,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Cohere,fine_tuning,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Cohere,api_control,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Cohere,ann_indexes,2,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Cohere,project_defense,2,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Cohere,serving_cost,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Cohere,coding,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Cohere,tokens_attention,1,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Cohere,unclear,1,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Cohere,embeddings,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Google DeepMind,system_design,5,5
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Google DeepMind,tokens_attention,4,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Google DeepMind,classic_ml,4,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Google DeepMind,context_sampling,3,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Google DeepMind,evals,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Google DeepMind,unclear,2,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Google DeepMind,coding,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Google DeepMind,project_defense,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",xAI,serving_cost,6,5
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",xAI,system_design,5,5
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",xAI,coding,4,4
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",xAI,api_control,3,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",xAI,unclear,2,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",xAI,classic_ml,2,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Databricks,system_design,8,8
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Databricks,fine_tuning,4,4
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Databricks,data_plane,3,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Databricks,coding,3,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Databricks,serving_cost,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Databricks,evals,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Scale AI,evals,7,6
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Scale AI,system_design,6,6
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Scale AI,fine_tuning,5,5
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Scale AI,coding,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Scale AI,data_plane,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Scale AI,agent_reliability,1,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Together AI,serving_cost,16,15
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Together AI,system_design,3,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Together AI,coding,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Together AI,tokens_attention,1,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Alibaba,tokens_attention,8,7
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Alibaba,fine_tuning,4,4
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Alibaba,coding,3,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Alibaba,evals,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Alibaba,serving_cost,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Alibaba,project_defense,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Alibaba,system_design,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Moonshot AI,serving_cost,9,9
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Moonshot AI,tokens_attention,5,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Moonshot AI,evals,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Moonshot AI,system_design,2,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Moonshot AI,context_sampling,2,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Moonshot AI,fine_tuning,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Apple,serving_cost,7,7
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Apple,context_sampling,3,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Apple,fine_tuning,3,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Apple,agent_reliability,3,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Apple,unclear,2,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Apple,system_design,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Apple,evals,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Cursor,agent_reliability,5,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Cursor,serving_cost,4,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Cursor,data_plane,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Cursor,system_design,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Cursor,coding,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Cursor,unclear,2,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Cursor,grounding,1,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Cursor,evals,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Cursor,api_control,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Sarvam AI,system_design,10,8
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Sarvam AI,fine_tuning,4,4
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Sarvam AI,tokens_attention,3,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Sarvam AI,serving_cost,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Sarvam AI,evals,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Sarvam AI,classic_ml,1,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Amazon (AWS),classic_ml,9,9
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Amazon (AWS),evals,3,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Amazon (AWS),unclear,3,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Amazon (AWS),system_design,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Amazon (AWS),agent_reliability,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Amazon (AWS),serving_cost,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Amazon (AWS),tokens_attention,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Cognition,agent_reliability,10,8
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Cognition,evals,4,4
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Cognition,system_design,3,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Cognition,unclear,1,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Cognition,project_defense,1,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.","Meta (Superintelligence Labs, FAIR, Llama)",system_design,11,9
+"Priority counts inside a company's tag pile. Bank tags, not interviews.","Meta (Superintelligence Labs, FAIR, Llama)",evals,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.","Meta (Superintelligence Labs, FAIR, Llama)",tokens_attention,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.","Meta (Superintelligence Labs, FAIR, Llama)",fine_tuning,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.","Meta (Superintelligence Labs, FAIR, Llama)",serving_cost,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.","Meta (Superintelligence Labs, FAIR, Llama)",project_defense,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.","Meta (Superintelligence Labs, FAIR, Llama)",coding,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.","Meta (Superintelligence Labs, FAIR, Llama)",unclear,1,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",ElevenLabs,system_design,13,9
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",ElevenLabs,evals,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",ElevenLabs,serving_cost,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",ElevenLabs,coding,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",ElevenLabs,api_control,1,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Google DeepMind and Google AI,classic_ml,7,6
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Google DeepMind and Google AI,system_design,5,4
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Google DeepMind and Google AI,evals,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Google DeepMind and Google AI,unclear,2,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Google DeepMind and Google AI,hybrid_search,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Google DeepMind and Google AI,coding,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Character.AI,serving_cost,8,7
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Character.AI,system_design,3,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Character.AI,injection_gates,3,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Character.AI,context_sampling,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Character.AI,evals,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Mistral AI,serving_cost,6,6
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Mistral AI,tokens_attention,4,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Mistral AI,fine_tuning,3,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Mistral AI,system_design,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Mistral AI,agent_reliability,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Sierra,injection_gates,5,4
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Sierra,agent_reliability,5,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Sierra,evals,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Sierra,system_design,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Sierra,unclear,1,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Sierra,project_defense,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Sierra,grounding,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Hugging Face,system_design,6,5
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Hugging Face,fine_tuning,5,5
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Hugging Face,tokens_attention,3,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Hugging Face,unclear,1,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Hugging Face,serving_cost,1,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Hugging Face,injection_gates,1,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",DeepSeek,fine_tuning,5,5
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",DeepSeek,tokens_attention,4,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",DeepSeek,system_design,3,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",DeepSeek,serving_cost,3,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",DeepSeek,coding,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Zhipu AI,tokens_attention,3,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Zhipu AI,evals,3,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Zhipu AI,fine_tuning,3,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Zhipu AI,system_design,3,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Zhipu AI,serving_cost,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Zhipu AI,coding,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Zhipu AI,agent_reliability,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Glean,data_plane,3,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Glean,system_design,3,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Glean,fine_tuning,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Glean,hybrid_search,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Glean,agent_reliability,2,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Glean,chunking,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Glean,evals,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Glean,coding,1,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Abridge,system_design,5,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Abridge,grounding,4,4
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Abridge,evals,3,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Abridge,agent_reliability,2,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Abridge,data_plane,1,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Abridge,serving_cost,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Harvey,chunking,4,4
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Harvey,grounding,3,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Harvey,evals,3,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Harvey,agent_reliability,1,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Harvey,serving_cost,1,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Harvey,context_sampling,1,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Harvey,unclear,1,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Harvey,system_design,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Harvey,data_plane,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Mistral,serving_cost,5,4
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Mistral,fine_tuning,3,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Mistral,system_design,3,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Mistral,tokens_attention,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Mistral,coding,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Mistral,agent_reliability,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Groq,serving_cost,6,6
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Groq,system_design,5,4
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Groq,context_sampling,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Groq,project_defense,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Cursor (Anysphere),agent_reliability,5,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Cursor (Anysphere),serving_cost,2,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Cursor (Anysphere),coding,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Cursor (Anysphere),unclear,2,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Cursor (Anysphere),evals,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Cursor (Anysphere),data_plane,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Cursor (Anysphere),system_design,1,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.","Consumer-Scale ML Companies (Uber, Netflix, LinkedIn, Airbnb, Pinterest, Spotify)",system_design,9,9
+"Priority counts inside a company's tag pile. Bank tags, not interviews.","Consumer-Scale ML Companies (Uber, Netflix, LinkedIn, Airbnb, Pinterest, Spotify)",evals,2,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.","Consumer-Scale ML Companies (Uber, Netflix, LinkedIn, Airbnb, Pinterest, Spotify)",classic_ml,1,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.","Consumer-Scale ML Companies (Uber, Netflix, LinkedIn, Airbnb, Pinterest, Spotify)",coding,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.","Consumer-Scale ML Companies (Uber, Netflix, LinkedIn, Airbnb, Pinterest, Spotify)",project_defense,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Figure AI,system_design,4,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Figure AI,classic_ml,2,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Figure AI,agent_reliability,2,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Figure AI,serving_cost,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Figure AI,evals,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Figure AI,fine_tuning,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Waymo,system_design,7,6
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Waymo,evals,4,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Waymo,serving_cost,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Google,system_design,3,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Google,classic_ml,3,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Google,tokens_attention,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Google,project_defense,2,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Google,serving_cost,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Google,evals,1,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Tesla,system_design,4,4
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Tesla,classic_ml,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Tesla,coding,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Tesla,evals,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Tesla,project_defense,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Zhipu AI (GLM),system_design,3,3
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Zhipu AI (GLM),tokens_attention,2,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Zhipu AI (GLM),serving_cost,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Zhipu AI (GLM),evals,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Zhipu AI (GLM),coding,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Moonshot AI (Kimi),serving_cost,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Moonshot AI (Kimi),tokens_attention,2,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Moonshot AI (Kimi),system_design,1,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Moonshot AI (Kimi),context_sampling,1,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Moonshot AI (Kimi),fine_tuning,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Moonshot AI (Kimi),evals,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Alibaba (Qwen),tokens_attention,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Alibaba (Qwen),fine_tuning,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Alibaba (Qwen),serving_cost,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Alibaba (Qwen),evals,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Alibaba (Qwen),system_design,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Scale,unclear,3,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Scale,coding,3,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Scale,evals,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.","Cognition (Devin, Windsurf)",agent_reliability,2,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.","Cognition (Devin, Windsurf)",system_design,2,2
+"Priority counts inside a company's tag pile. Bank tags, not interviews.","Cognition (Devin, Windsurf)",unclear,1,0
+"Priority counts inside a company's tag pile. Bank tags, not interviews.","Cognition (Devin, Windsurf)",evals,1,1
+"Priority counts inside a company's tag pile. Bank tags, not interviews.",Consumer-Scale ML Companies,agent_reliability,1,1

@@ -1,0 +1,7 @@
+# The CSVs are the dataset, not vendored code. Count them in the language stats
+# and let GitHub render them as tables.
+*.csv linguist-detectable=true
+*.csv linguist-language=CSV
+catalog/** linguist-generated=true
+* text=auto eol=lf
+*.png binary

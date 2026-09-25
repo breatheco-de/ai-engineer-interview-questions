@@ -1,0 +1,20 @@
+figure_title,name,n_questions,n_candidate,n_compiled_report,n_study_bank
+"Named in question text. Mentioned in this corpus, not required on the job.",MCP,23,1,5,17
+"Named in question text. Mentioned in this corpus, not required on the job.",PyTorch,9,0,3,6
+"Named in question text. Mentioned in this corpus, not required on the job.",Claude,8,0,3,5
+"Named in question text. Mentioned in this corpus, not required on the job.",ChatGPT,8,0,6,2
+"Named in question text. Mentioned in this corpus, not required on the job.",NumPy,7,0,4,3
+"Named in question text. Mentioned in this corpus, not required on the job.",vLLM,7,0,3,4
+"Named in question text. Mentioned in this corpus, not required on the job.",Hugging Face,4,0,1,3
+"Named in question text. Mentioned in this corpus, not required on the job.",TensorRT,4,0,0,4
+"Named in question text. Mentioned in this corpus, not required on the job.",Bedrock,2,0,0,2
+"Named in question text. Mentioned in this corpus, not required on the job.",Spark,2,0,1,1
+"Named in question text. Mentioned in this corpus, not required on the job.",AWS,2,2,0,0
+"Named in question text. Mentioned in this corpus, not required on the job.",RAGAS,2,0,0,2
+"Named in question text. Mentioned in this corpus, not required on the job.",Kafka,1,0,0,1
+"Named in question text. Mentioned in this corpus, not required on the job.",Redis,1,0,0,1
+"Named in question text. Mentioned in this corpus, not required on the job.",LangGraph,1,1,0,0
+"Named in question text. Mentioned in this corpus, not required on the job.",pgvector,1,0,0,1
+"Named in question text. Mentioned in this corpus, not required on the job.",LangSmith,1,0,1,0
+"Named in question text. Mentioned in this corpus, not required on the job.",Ollama,1,0,0,1
+"Named in question text. Mentioned in this corpus, not required on the job.",PostgreSQL,1,0,1,0

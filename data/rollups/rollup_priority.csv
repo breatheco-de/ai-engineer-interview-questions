@@ -1,0 +1,19 @@
+figure_title,priority,n_firm_questions,n_candidate,n_compiled_report,n_study_bank,n_review_not_in_counts
+Firm Jev labels only. A mixed question is counted in each source type it has. Not a probability of being asked.,system_design,267,8,68,192,78
+Firm Jev labels only. A mixed question is counted in each source type it has. Not a probability of being asked.,evals,216,2,40,174,25
+Firm Jev labels only. A mixed question is counted in each source type it has. Not a probability of being asked.,serving_cost,181,1,22,158,26
+Firm Jev labels only. A mixed question is counted in each source type it has. Not a probability of being asked.,fine_tuning,137,0,18,119,12
+Firm Jev labels only. A mixed question is counted in each source type it has. Not a probability of being asked.,agent_reliability,134,11,24,99,25
+Firm Jev labels only. A mixed question is counted in each source type it has. Not a probability of being asked.,classic_ml,113,1,28,85,23
+Firm Jev labels only. A mixed question is counted in each source type it has. Not a probability of being asked.,coding,100,1,52,47,16
+Firm Jev labels only. A mixed question is counted in each source type it has. Not a probability of being asked.,tokens_attention,94,1,14,79,20
+Firm Jev labels only. A mixed question is counted in each source type it has. Not a probability of being asked.,injection_gates,47,1,9,37,17
+Firm Jev labels only. A mixed question is counted in each source type it has. Not a probability of being asked.,project_defense,44,7,16,21,9
+Firm Jev labels only. A mixed question is counted in each source type it has. Not a probability of being asked.,context_sampling,32,2,3,27,14
+Firm Jev labels only. A mixed question is counted in each source type it has. Not a probability of being asked.,grounding,32,1,6,25,4
+Firm Jev labels only. A mixed question is counted in each source type it has. Not a probability of being asked.,api_control,28,1,10,17,8
+Firm Jev labels only. A mixed question is counted in each source type it has. Not a probability of being asked.,hybrid_search,25,1,6,18,2
+Firm Jev labels only. A mixed question is counted in each source type it has. Not a probability of being asked.,data_plane,22,0,1,21,7
+Firm Jev labels only. A mixed question is counted in each source type it has. Not a probability of being asked.,embeddings,21,1,4,16,5
+Firm Jev labels only. A mixed question is counted in each source type it has. Not a probability of being asked.,chunking,14,2,1,11,3
+Firm Jev labels only. A mixed question is counted in each source type it has. Not a probability of being asked.,ann_indexes,12,3,1,8,3
